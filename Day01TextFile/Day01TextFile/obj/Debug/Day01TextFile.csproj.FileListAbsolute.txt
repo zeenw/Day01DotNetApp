@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01TextFile\Day01TextFile\bin\Debug\Day01TextFile.exe.config
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01TextFile\Day01TextFile\bin\Debug\Day01TextFile.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01TextFile\Day01TextFile\bin\Debug\Day01TextFile.pdb
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01TextFile\Day01TextFile\obj\Debug\Day01TextFile.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01TextFile\Day01TextFile\obj\Debug\Day01TextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01TextFile\Day01TextFile\obj\Debug\Day01TextFile.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01TextFile\Day01TextFile\obj\Debug\Day01TextFile.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01TextFile\Day01TextFile\obj\Debug\Day01TextFile.pdb

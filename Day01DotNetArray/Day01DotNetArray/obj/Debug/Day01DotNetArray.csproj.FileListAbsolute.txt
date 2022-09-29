@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetArray\Day01DotNetArray\bin\Debug\Day01DotNetArray.exe.config
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetArray\Day01DotNetArray\bin\Debug\Day01DotNetArray.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetArray\Day01DotNetArray\bin\Debug\Day01DotNetArray.pdb
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetArray\Day01DotNetArray\obj\Debug\Day01DotNetArray.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetArray\Day01DotNetArray\obj\Debug\Day01DotNetArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetArray\Day01DotNetArray\obj\Debug\Day01DotNetArray.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetArray\Day01DotNetArray\obj\Debug\Day01DotNetArray.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetArray\Day01DotNetArray\obj\Debug\Day01DotNetArray.pdb

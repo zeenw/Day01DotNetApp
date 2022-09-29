@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetConsole\Day01DotNetConsole\bin\Debug\Day01DotNetConsole.exe.config
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetConsole\Day01DotNetConsole\bin\Debug\Day01DotNetConsole.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetConsole\Day01DotNetConsole\bin\Debug\Day01DotNetConsole.pdb
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetConsole\Day01DotNetConsole\obj\Debug\Day01DotNetConsole.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetConsole\Day01DotNetConsole\obj\Debug\Day01DotNetConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetConsole\Day01DotNetConsole\obj\Debug\Day01DotNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetConsole\Day01DotNetConsole\obj\Debug\Day01DotNetConsole.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01DotNetConsole\Day01DotNetConsole\obj\Debug\Day01DotNetConsole.pdb
