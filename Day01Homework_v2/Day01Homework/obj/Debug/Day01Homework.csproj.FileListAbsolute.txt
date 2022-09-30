@@ -1,0 +1,24 @@
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework\Day01Homework\bin\Debug\Day01Homework.exe.config
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework\Day01Homework\bin\Debug\Day01Homework.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework\Day01Homework\bin\Debug\Day01Homework.pdb
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework\Day01Homework\obj\Debug\Day01Homework.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework\Day01Homework\obj\Debug\Day01Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework\Day01Homework\obj\Debug\Day01Homework.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework\Day01Homework\obj\Debug\Day01Homework.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework\Day01Homework\obj\Debug\Day01Homework.pdb
+C:\Users\Student\Documents\Day01Homework - Copy\Day01Homework\bin\Debug\Day01Homework.exe.config
+C:\Users\Student\Documents\Day01Homework - Copy\Day01Homework\bin\Debug\Day01Homework.exe
+C:\Users\Student\Documents\Day01Homework - Copy\Day01Homework\bin\Debug\Day01Homework.pdb
+C:\Users\Student\Documents\Day01Homework - Copy\Day01Homework\obj\Debug\Day01Homework.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Day01Homework - Copy\Day01Homework\obj\Debug\Day01Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\Day01Homework - Copy\Day01Homework\obj\Debug\Day01Homework.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Day01Homework - Copy\Day01Homework\obj\Debug\Day01Homework.exe
+C:\Users\Student\Documents\Day01Homework - Copy\Day01Homework\obj\Debug\Day01Homework.pdb
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework_v2\Day01Homework\bin\Debug\Day01Homework.exe.config
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework_v2\Day01Homework\bin\Debug\Day01Homework.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework_v2\Day01Homework\bin\Debug\Day01Homework.pdb
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework_v2\Day01Homework\obj\Debug\Day01Homework.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework_v2\Day01Homework\obj\Debug\Day01Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework_v2\Day01Homework\obj\Debug\Day01Homework.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework_v2\Day01Homework\obj\Debug\Day01Homework.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day01Homework_v2\Day01Homework\obj\Debug\Day01Homework.pdb

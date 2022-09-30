@@ -1,0 +1,12 @@
+zeen;41;Montreal
+wu;41;Montreal
+Alex;25;Laval
+Andy;33;Brossard
+Jack;61;Dorval
+Bob;51;St Jerome
+Cathy;18;St Sauveur
+Emanuel;27;Toronto
+Nancy;44;Tadussac
+Alex;81;Quebec City
+Nemar;35;Verdun
+Tony;35;Montreal
