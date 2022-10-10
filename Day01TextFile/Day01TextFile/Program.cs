@@ -13,15 +13,15 @@ namespace Day01TextFile
         static void Main(string[] args)
         {
             int NUM = 3;
-            string strFile = "data.txt";
+            const string strFile = "data.txt";
             string strName;
             string strLine = "";
-
+            StreamWriter sw = null;
             Console.WriteLine("Please enter your name.");
             strName = Console.ReadLine();
             try
             {
-                using (StreamWriter sw = new StreamWriter(strFile))
+                using (sw = new StreamWriter(strFile))
                 {
                     sw.WriteLine("==========================");
                     for (int i = 0; i < NUM; i++)
@@ -37,13 +37,22 @@ namespace Day01TextFile
                         Console.WriteLine(strLine);
                     }
                 }
-            } catch (Exception e)
+            }
+
+            catch (SystemException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            catch(Exception e)
             {
                 Console.WriteLine(e.Message);
             }
 
             finally
             {
+                if(sw != null)  
+                    sw.Close();
                 Console.ReadKey();
             }
 

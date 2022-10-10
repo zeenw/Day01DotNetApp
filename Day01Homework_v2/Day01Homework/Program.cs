@@ -22,8 +22,15 @@ namespace Day01Homework
 
         static void Main(string[] args)
         {
-            ReadAllPeopleFromFile();
-            menu();
+            try
+            {
+                ReadAllPeopleFromFile();
+                menu();
+            }
+             catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
 
         static void menu()
@@ -107,11 +114,11 @@ namespace Day01Homework
                 }
 
             }
-
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
+
             finally
             {
                 Console.ReadKey();
@@ -137,7 +144,7 @@ namespace Day01Homework
                     sr.Close();
                 }
             }
-            catch (Exception e)
+            catch (SystemException e)
             {
                 Console.WriteLine(e.Message);
             }
@@ -205,7 +212,7 @@ namespace Day01Homework
                 }
 
             }
-            catch (Exception e)
+            catch (SystemException e)
             {
                 Console.WriteLine(e.Message);
             }

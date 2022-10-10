@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\Day05FirstEFConsole.exe.config
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\Day05FirstEFConsole.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\Day05FirstEFConsole.pdb
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.csproj.CopyComplete
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.exe
+C:\Users\Student\Documents\GitHub\Day01DotNetApp\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.pdb

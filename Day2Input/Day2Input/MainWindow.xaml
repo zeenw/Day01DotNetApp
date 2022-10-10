@@ -1,0 +1,39 @@
+﻿<Window x:Class="Day2Input.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day2Input"
+        mc:Ignorable="d" ResizeMode="NoResize"
+        Title="MainWindow" Height="300" Width="500">
+    <Grid Margin="0,0,0,-6">
+        <Label Content="Name:" HorizontalAlignment="Left" Height="30" Margin="12,36,0,0" VerticalAlignment="Top" Width="69"/>
+        <TextBox x:Name="txt_name" HorizontalAlignment="Left" Height="25" Margin="151,39,0,0" TextWrapping="Wrap" Text="Input your name" VerticalAlignment="Top" Width="300"/>
+        <Label Content="Age:" HorizontalAlignment="Left" Height="30" Margin="12,99,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="0.338,2.468"/>
+        <RadioButton x:Name="rb1" Content="Below 18" HorizontalAlignment="Left" Height="30" Margin="156,75,0,0" VerticalAlignment="Top" Width="80" GroupName="rb_gr_age" Checked="rb1_Checked" IsChecked="True"/>
+        <RadioButton x:Name="rb2" Content="18 - 35" HorizontalAlignment="Left" Height="30" Margin="267,75,0,0" VerticalAlignment="Top" Width="80" GroupName="rad_gr_age" Checked="rb2_Checked"/>
+        <RadioButton x:Name="rb3" Content="36 and up" HorizontalAlignment="Left" Height="30" Margin="371,75,0,0" VerticalAlignment="Top" Width="80" GroupName="rad_gr_age" Checked="rb3_Checked"/>
+        <Label Content="Pets:" HorizontalAlignment="Left" Height="30" Margin="12,67,0,0" VerticalAlignment="Top" Width="69"/>
+        <CheckBox x:Name="ck1" Content="Cat" HorizontalAlignment="Left" Height="30" Margin="156,106,0,0" VerticalAlignment="Top" Width="80" Checked="ck1_Checked" IsChecked="False"/>
+        <CheckBox x:Name="ck2" Content="Dog" HorizontalAlignment="Left" Height="30" Margin="266,106,0,0" VerticalAlignment="Top" Width="80" Checked="ck2_Checked"/>
+        <CheckBox x:Name="ck3" Content="Other" HorizontalAlignment="Left" Height="30" Margin="371,106,0,0" VerticalAlignment="Top" Width="80" Checked="ck3_Checked"/>
+        <Label Content="Continent of residence:" HorizontalAlignment="Left" Height="30" Margin="12,129,0,0" VerticalAlignment="Top" Width="150"/>
+
+
+        <Slider x:Name="Temperature" HorizontalAlignment="Left" Height="25" Margin="152,178,0,0" VerticalAlignment="Top" Width="219" Minimum="15" Maximum="35" Value="22" TickFrequency="1" IsSnapToTickEnabled="True" TickPlacement="BottomRight"/>
+
+        <Label Content="Reference temperature:" 
+               HorizontalAlignment="Left" Height="30" Margin="12,173,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button Content="Button" HorizontalAlignment="Center" Height="30" Margin="0,210,0,0" 
+                VerticalAlignment="Top" Width="222" Click="Button_Click"/>
+        <ComboBox HorizontalAlignment="Left" Height="23" Margin="156,137,0,0" VerticalAlignment="Top" Width="135">
+            <ComboBoxItem IsSelected="True">Please select </ComboBoxItem>
+            <ComboBoxItem>Asia</ComboBoxItem>
+            <ComboBoxItem>Africa</ComboBoxItem>
+            <ComboBoxItem>America</ComboBoxItem>
+            <ComboBoxItem>Antarctica</ComboBoxItem>
+            <ComboBoxItem>Australia</ComboBoxItem>
+            <ComboBoxItem>Europe</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>
